@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Rambo",
+    "image":"https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/05/07/Pictures/_112ab3ca-51d8-11e8-aa60-d0af28d4422a.jpg",
+    "occupation": "Jungle Badass",
+    "count": 0
+    
+  },
+  {
+    "id": 2,
+    "name": "Cobra",
+    "image": "https://www.writeups.org/wp-content/uploads/Marion-Cobretti-Cobra-Stallone.jpg",
+    "occupation": "Cop Badass",
+    "count": 0
+    
+  },
+  {
+    "id": 3,
+    "name": "Demolition Man",
+    "image": "https://pixel.nymag.com/imgs/daily/vulture/2018/10/05/05-demolition-man.w700.h700.jpg",
+    "occupation": "Cop Badass from the future",
+    "count": 0
+  },
+    
+  {
+    "id": 4,
+    "name": "Over the Top",
+    "image": "https://actionagogo.com/wp-content/uploads/2016/03/overtops.jpg",
+    "occupation": "Arm wrestling champ",
+    "count": 0
+    
+  },
+  {
+    "id": 5,
+    "name": "Judge Dredd",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI2MjIyMzI1OF5BMl5BanBnXkFtZTYwNDkxMjA3._V1_.jpg",
+    "occupation": "Judge, Jury and Executioner",
+    "count": 0
+    
+  },
+  {
+    "id": 6,
+    "name": "Rocky 1",
+    "image": "https://www.popworkouts.com/wp-content/uploads/2014/08/sylvester-stallone-workout-for-rocky-2.jpg",
+    "occupation": "Boxer",
+    "count": 0
+    
+  },
+  {
+    "id": 7,
+    "name": "Rocky 2",
+    "image": "https://proassets.monopile.cloud/63496/f0bd8449d9272220af39a28788dff8d4.jpg",
+    "occupation": "Boxer",
+    "count": 0
+    
+  },
+  {
+    "id": 8,
+    "name": "Rocky 3",
+    "image": "https://images.amcnetworks.com/ifc.com/wp-content/uploads/2011/11/rocky-III-11222011.jpg",
+    "occupation": "Boxer",
+    "count": 0
+    
+  },
+  {
+    "id": 9,
+    "name": "Rocky 4",
+    "image": "https://www.celebrific.com/wp-content/uploads/2016/12/Sylvester-Stallone.jpg",
+    "occupation": "Champ",
+    "count": 0
+    
+  },
+  {
+    "id": 10,
+    "name": "Rocko",
+    "image": "https://i.pinimg.com/originals/60/ba/eb/60baebbed6fd5630dd22811ea0fa9d05.jpg",
+    "occupation": "Retired Boxer",
+    "count": 0
+    
+  },
+  {
+    "id": 11,
+    "name": "Expendables",
+    "image": "https://www.grittv.com/wp-content/uploads/2014/09/Sylvester-Stallone-Expendables-a.jpg",
+    "occupation": "Mercenary",
+    "count": 0
+    
+  },
+  {
+    "id": 12,
+    "name": "Spy Kids 3d",
+    "image": "https://vignette.wikia.nocookie.net/spykids/images/7/78/Jsuf4hdg02sbdh0u.jpg/revision/latest?cb=20100727123135",
+    "occupation": "Worst Bad Guy Ever",
+    "count": 0
+    
+  }
+]
